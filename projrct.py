@@ -6,4 +6,4 @@ cube =[j**3 for j in li]
 
 print("the square of the numbers are",squares)
 
-print("the square of the numbers are",cube)
+print("the cube of the numbers are",cube)
